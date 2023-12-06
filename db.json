@@ -1,0 +1,8 @@
+{
+    "users":[
+        {"id":1,"nome":"Pablo Henrique","email":"pablogdev@email.com","senha":"123456"},
+        {"id":2,"nome":"Julian Andres","email":"juuhandres@email.com","senha":"123456"}
+    ]
+
+
+}
